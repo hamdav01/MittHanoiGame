@@ -1,2 +1,2 @@
 # MittHanoiGame
-Ett hannoigame
+Ett hannoigame som använder sig utav command pattern!!
