@@ -3,7 +3,7 @@
   Topic:  Class HanoiEngine manages and displays moves of
           'Towers of Hanoi'. The towers are numbered from 1 to 3,
           left to right.
-  Last change:   December 2009 / orjste
+  Last change:   Mars 2016 / Hampus
 */
 
 #ifndef HanoiEngine_H
