@@ -1,7 +1,7 @@
 /*
   File:   HanoiEngine.cpp
   Topic:  Implementation of class HanoiEngine
-  Date:   February 2006 / orjste
+  Date:   Mars 2016 / Hampus
 */
 
 #include <iostream>
